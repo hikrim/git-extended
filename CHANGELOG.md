@@ -1,9 +1,4 @@
-# 1.0.0 (2025-03-07)
-
-
-### Features
-
-* change ([2bc427f](https://github.com/hikrim/git-extended/commit/2bc427f35799d58839fb606de0f9f5dfd05f41ac))
+## [1.2.3](https://github.com/hikrim/git-extended/compare/v1.0.0...v1.2.3) (2025-03-07)
 
 
 
